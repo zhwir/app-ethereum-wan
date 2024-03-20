@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/137'" --path "44'/00'"
+TICKER = "RBTC"
+CHAIN_ID = 30
+APPNAME = "RSK"

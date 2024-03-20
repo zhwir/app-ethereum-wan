@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/60'"
+TICKER = "CUBE"
+CHAIN_ID = 1818
+APPNAME = "Cube"

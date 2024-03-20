@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/200625'"
+TICKER = "AKA"
+CHAIN_ID = 200625
+APPNAME = "Akroma"

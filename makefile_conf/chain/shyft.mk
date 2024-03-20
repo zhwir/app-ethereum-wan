@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/60'"
+TICKER = "SHFT"
+CHAIN_ID = 7341
+APPNAME = "Shyft"

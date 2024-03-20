@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/1987'"
+TICKER = "EGEM"
+CHAIN_ID = 1987
+APPNAME = "EtherGem"

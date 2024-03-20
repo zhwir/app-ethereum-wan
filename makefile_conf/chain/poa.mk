@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/60'"
+TICKER = "POA"
+CHAIN_ID = 99
+APPNAME = "POA"

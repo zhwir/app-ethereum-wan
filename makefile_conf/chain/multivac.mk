@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/60'"
+TICKER = "MTV"
+CHAIN_ID = 62621
+APPNAME = "MultiVAC"

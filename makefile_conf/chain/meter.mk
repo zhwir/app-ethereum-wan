@@ -1,0 +1,4 @@
+APP_LOAD_PARAMS += --path "44'/60'"
+TICKER = "MTR"
+CHAIN_ID = 82
+APPNAME = "Meter"
